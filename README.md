@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-/social-links-profile-main/assets/Screenshot-Frontend-Mentor-Social-links-profile.png
+![github.com/fish-ladder/social-links-profile-main/assets/Screenshot-Frontend-Mentor-Social-links-profile.png]
 
 ### Links
 
